@@ -1,3 +1,5 @@
+See Assignment3csc314 for assignment instructions
+
 
 to compile Sieve type: make -f makefileSieve
 or type: g++ -pthread Sieve.cpp -o Sieve
