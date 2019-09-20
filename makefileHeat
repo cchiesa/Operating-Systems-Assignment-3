@@ -1,0 +1,7 @@
+CC = g++
+CPPFLAGS = -I.
+heat: heat.o
+heat.o: heat.cpp
+clean:
+	rm main
+	rm *.o
