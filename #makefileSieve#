@@ -1,7 +1,0 @@
-CC = g++  
-CPPFLAGS = -I.
-Sieve: Sieve.o  
-Sieve.o: Sieve.cpp 
-clean:
-	rm Sieve
-	rm *.0
